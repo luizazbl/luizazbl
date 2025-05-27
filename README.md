@@ -2,10 +2,10 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <h2> Olá mundo! Eu sou a luiza! 💚</h2>
+        <h2> hello world! Eu sou a luiza! 💚</h2>
       </div>
       <div align="center">
-        👩‍💻 Desenvolvedora Front‑end <br/>
+        👩‍💻 Desenvolvedora <br/>
         <em>“Slow down, you're doing fine”</em>
       </div>
       <div align="center">
