@@ -33,10 +33,7 @@
       </div>
       <div align="center">
         <h3>⭐ Redes Sociais</h3>
-        <a href="https://instagram.com/gabs.devclub" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href = "mailto:gabriellydossantos2704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://https://www.linkedin.com/in/gabriellyferreirati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href="https://teuSite.vercel.app"> <img src="https://img.shields.io/badge/Portfólio-✨-ff69b4?style=for-the-badge&logo=aboutdotme"/></a>
+        <a 
       </div>
     </td>
   </tr>
