@@ -1,21 +1,21 @@
+Olá, bem-vindo(a) ao meu perfil! ✨
 
-# Olá, bem-vindo(a) ao meu perfil! ✨
+Estudante de Sistemas de Informação. Buscando minha primeira oportunidade de estágio em Desenvolvimento de Software, com foco em aprender e construir uma base sólida em programação. Bem-vindo(a)!
 
-Estudante de Sistemas de Informação. Buscando minha primeira oportunidade de estágio em Desenvolvimento de Software, com foco em criar códigos limpos, eficientes e em constante aprendizado. Bem-vindo(a)!
+🌟 Atualmente estudando...
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-### 🌟 Atualmente estudando...
-![Python](https://shields.io) ![Java](https://shields.io) ![Git](https://shields.io)
-
-### 📈 Objetivos e Organização
-- Dedicada ao desenvolvimento de uma base sólida em engenharia e arquitetura de software.
-- Focada em evoluir na lógica de programação e criar soluções computacionais eficientes.
+📈 Objetivos e Organização
+- Dedicada ao desenvolvimento de uma base sólida em lógica e arquitetura de software.
+- Focada em evoluir na resolução de problemas através de projetos práticos.
 - Organização, atenção aos detalhes e busca constante por boas práticas de codificação.
 
-### ✉️ Contato
-![Gmail](https://shields.io) ![LinkedIn](https://shields.io)
+✉️ Contato
+<a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM"><img src="https://shields.io" /></a> <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI"><img src="https://shields.io" /></a>
 
 ---
 "O sucesso é a soma de pequenos esforços repetidos dia após dia." ✨
+
 
 <!--
 **luizazbl/luizazbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
