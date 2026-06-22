@@ -1,20 +1,21 @@
-Olá, bem-vindo(a) ao meu perfil! ✨
+# Olá, bem-vindo(a) ao meu perfil! ✨
 
 Estudante de Sistemas de Informação. Buscando minha primeira oportunidade de estágio em Desenvolvimento de Software, com foco em aprender e construir uma base sólida em programação. Bem-vindo(a)!
 
-🌟 Atualmente estudando...
+### 🌟 Atualmente estudando...
 <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-📈 Objetivos e Organização
+### 📈 Objetivos e Organização
 - Dedicada ao desenvolvimento de uma base sólida em lógica e arquitetura de software.
 - Focada em evoluir na resolução de problemas através de projetos práticos.
 - Organização, atenção aos detalhes e busca constante por boas práticas de codificação.
 
-✉️ Contato
-<a href="mailto:luiza.izabel@gmail.com"><img src="https://shields.io" /></a> <a href="www.linkedin.com/in/luiza-izabel"><img src="https://shields.io" /></a>
+### ✉️ Contato
+<a href="mailto:luiza.izabel@gmail.com"><img src="https://shields.io" /></a> <a href="https://linkedin.com"><img src="https://shields.io" /></a>
 
 ---
 "O sucesso é a soma de pequenos esforços repetidos dia após dia." ✨
+
 
 
 <!--
