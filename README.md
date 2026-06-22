@@ -11,7 +11,7 @@ Estudante de Sistemas de Informação. Buscando minha primeira oportunidade de e
 - Organização, atenção aos detalhes e busca constante por boas práticas de codificação.
 
 ✉️ Contato
-<a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM"><img src="https://shields.io" /></a> <a href="COLE_O_LINK_DO_SEU_LINKEDIN_AQUI"><img src="https://shields.io" /></a>
+<a href="mailto:luiza.izabel@gmail.com"><img src="https://shields.io" /></a> <a href="www.linkedin.com/in/luiza-izabel"><img src="https://shields.io" /></a>
 
 ---
 "O sucesso é a soma de pequenos esforços repetidos dia após dia." ✨
