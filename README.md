@@ -1,5 +1,7 @@
 ## Hi there 👋
 My name is luiza
+- 🎓 Cursando **Sistemas de Informação** (focada em entregar muito código e zero bugs).
+- 🌱 Buscando minha primeira oportunidade de **estágio** para aplicar meus conhecimentos e crescer na área!
 - 🎬 *Disney lover* assumida! Nas horas livres, maratonar filmes e séries é a minha terapia.
 
 <!--
