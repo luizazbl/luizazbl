@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is luiza
+- 🎬 *Disney lover* assumida! Nas horas livres, maratonar filmes e séries é a minha terapia.
 
 <!--
 **luizazbl/luizazbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
